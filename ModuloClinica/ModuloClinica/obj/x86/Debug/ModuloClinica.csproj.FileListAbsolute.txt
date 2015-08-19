@@ -1,0 +1,49 @@
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\ModuloClinica.exe.config
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\ModuloClinica.exe
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\ModuloClinica.pdb
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\Mono.Security.dll
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\MySql.Data.dll
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\Npgsql.dll
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\Npgsql.pdb
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\Npgsql.xml
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\de\Npgsql.resources.dll
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\es\Npgsql.resources.dll
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.Dosis.resources
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.modulo_clinica.resources
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.Properties.Resources.resources
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.Tratamiento.resources
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.VentanaReporte.resources
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.exe
+C:\Users\J Luis\Desktop\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.pdb
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\ModuloClinica.exe.config
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.exe
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.pdb
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\ModuloClinica.exe
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\ModuloClinica.pdb
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\MySql.Data.dll
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\Npgsql.pdb
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\Npgsql.xml
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\de\Npgsql.resources.dll
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\es\Npgsql.resources.dll
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.Dosis.resources
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.modulo_clinica.resources
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.Properties.Resources.resources
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.Tratamiento.resources
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.VentanaReporte.resources
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\J Luis\Documents\Proyecto BD B\ModuloClinica\ModuloClinica\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mis archivos\Bases de Datos\B\Proyecto\CD\ModuloClinica\ModuloClinica\bin\Debug\ModuloClinica.exe.config
+E:\Mis archivos\Bases de Datos\B\Proyecto\CD\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.exe
+E:\Mis archivos\Bases de Datos\B\Proyecto\CD\ModuloClinica\ModuloClinica\obj\x86\Debug\ModuloClinica.pdb
